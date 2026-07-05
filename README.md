@@ -1,4 +1,4 @@
-# 🔍 PRISM — SIEM Rule Generator from Raw Logs
+# PRISM — SIEM Rule Generator from Raw Logs
 
 **PRISM** turns raw log files into ready-to-use SIEM detection rules. Point it at a Linux auth log, an Apache access log, a Windows Security event export, or a generic CSV/JSON/XML log, and it will flag suspicious activity — brute-force logins, privilege escalation, sensitive cloud API calls, cleared audit logs, and more — map each finding to **MITRE ATT&CK**, and emit ready-to-import **Sigma** and/or **Splunk** detection rules.
 
